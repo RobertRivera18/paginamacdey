@@ -10,6 +10,7 @@ a {
   transition: 0.5s;
   text-decoration: none;
 }
+
 a:hover, a:active, a:focus {
   color: #d31818;
   outline: none;
